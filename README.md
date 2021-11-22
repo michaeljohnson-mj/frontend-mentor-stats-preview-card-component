@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/michaeljohnson-mj/frontend-mentor-stats-preview-card.git](https://github.com/michaeljohnson-mj/frontend-mentor-stats-preview-card.git)
-- Live Site URL: [https://michaeljohnson-mj.github.io/frontend-mentor-stats-preview-card/](https://michaeljohnson-mj.github.io/frontend-mentor-stats-preview-card/)
+- Solution URL: [https://github.com/michaeljohnson-mj/frontend-mentor-stats-preview-card-component.git](https://github.com/michaeljohnson-mj/frontend-mentor-stats-preview-card-component.git)
+- Live Site URL: [https://michaeljohnson-mj.github.io/frontend-mentor-stats-preview-card-component/](https://michaeljohnson-mj.github.io/frontend-mentor-stats-preview-card-component/)
 
 ## My process
 
